@@ -11,4 +11,4 @@ web1:
 
 db1:
   name: cloud-db
-    type: mysql
+  type: mysql
