@@ -6,3 +6,9 @@ web1:
   shared_writable_dirs:
     - cache
     - images
+  after_build:
+    - "mv pagoda/LocalSettings.php LocalSettings.php"
+
+db1:
+  name: cloud-db
+    type: mysql
