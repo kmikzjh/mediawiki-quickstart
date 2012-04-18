@@ -248,7 +248,7 @@ class VectorTemplate extends BaseTemplate {
 		<!-- /footer -->
 		<!-- mathjax -->
 		<script type="text/javascript"
-		   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		   src="https://d3eoax9i5htok0.cloudfront.net/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 		</script>
 		<!-- /mathjax -->
 		<!-- fixalpha -->
