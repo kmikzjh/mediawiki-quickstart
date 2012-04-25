@@ -60,10 +60,10 @@ $wgDBpassword       = $_SERVER["DB1_PASS"];
 
 ## Custom Extensions
 # secure pages
-require_once ( "$IP/extensions/SecurePages/SecurePages.php" );
-$wgSecurePages = array(
-  -1 => array( 'UserLogin', 'Preferences', 'ChangePassword'),
-);
+// require_once ( "$IP/extensions/SecurePages/SecurePages.php" );
+// $wgSecurePages = array(
+//   -1 => array( 'UserLogin', 'Preferences', 'ChangePassword'),
+// );
 
 # MySQL specific settings
 $wgDBprefix         = "";
